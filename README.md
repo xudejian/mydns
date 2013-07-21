@@ -1,0 +1,4 @@
+mydns
+=====
+
+my dnsmasq config
