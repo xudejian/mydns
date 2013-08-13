@@ -1,4 +1,4 @@
-mydns
-=====
-
-my dnsmasq config
+##mydns
+##=====
+#
+####  my dnsmasq config
