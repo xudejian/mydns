@@ -1,1 +1,2 @@
-dnsmasq.d/other.conf
+other.conf
+gitignore.*
