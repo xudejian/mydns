@@ -24,3 +24,4 @@
 
 ##### Tips
 ###### we should browse some site with https, you know why!
+###### Don't forget to change your dns settings!
